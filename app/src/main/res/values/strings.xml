@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Мій проект</string>
+    <string name="hello_text">Привіт студентам!</string>
+    <string name="btn_text">Показати список</string>
+    <string-array name="group">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>
